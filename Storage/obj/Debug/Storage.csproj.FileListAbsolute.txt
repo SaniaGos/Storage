@@ -1,0 +1,7 @@
+C:\Users\SaniaGos\source\repos\Storage\Storage\bin\Debug\Storage.exe.config
+C:\Users\SaniaGos\source\repos\Storage\Storage\bin\Debug\Storage.exe
+C:\Users\SaniaGos\source\repos\Storage\Storage\bin\Debug\Storage.pdb
+C:\Users\SaniaGos\source\repos\Storage\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\Storage\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Storage\Storage\obj\Debug\Storage.exe
+C:\Users\SaniaGos\source\repos\Storage\Storage\obj\Debug\Storage.pdb
